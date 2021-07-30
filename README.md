@@ -1,6 +1,6 @@
 # EvArEST
 
-Everyday Arabic-English Scene Text dataset
+Everyday Arabic-English Scene Text dataset, from the paper: [Arabic Scene Text Recognition in the Deep Learning Era: Analysis on A Novel Dataset](https://ieeexplore.ieee.org/abstract/document/9499028)
 
 ### Detection Dataset
 
@@ -44,5 +44,18 @@ https://rrc.cvc.uab.es/?ch=15&com=tasks
 Synthetic MLT Data
 
 https://github.com/MichalBusta/E2E-MLT
+
+### Citation 
+
+If you find this dataset useful for your research, please cite
+```
+@article{hassan2021arabic,
+  title={Arabic Scene Text Recognition in the Deep Learning Era: Analysis on A Novel Dataset},
+  author={Hassan, Heba and El-Mahdy, Ahmed and Hussein, Mohamed E},
+  journal={IEEE Access},
+  year={2021},
+  publisher={IEEE}
+}
+```
 
 
